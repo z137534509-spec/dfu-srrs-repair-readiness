@@ -1,0 +1,5 @@
+component	discovery_mean	discovery_sd	weight
+fibroblast_repair_activation	-0.0565915343986354	0.231432407005455	0.25
+stromal_ligand_panel	-0.0529329816789354	0.220534534386302	0.25
+vascular_perivascular_receiver_coupling	-0.00247838276791068	0.102296360766018	0.25
+d7_acute_wound_alignment	-0.0437137064139537	0.203046984460563	0.25

@@ -1,0 +1,15 @@
+__pycache__/
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+data/raw/
+*.h5ad
+*.h5
+*.rds
+*.Rds
+*.rda
+*.RData

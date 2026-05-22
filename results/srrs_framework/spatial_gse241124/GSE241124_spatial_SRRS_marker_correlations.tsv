@@ -1,0 +1,17 @@
+condition	feature	spearman_rho	p_spearman	n_spots
+Skin	fibroblast_stromal_marker	0.18126616611129845	3.865930713047823e-24	3077
+Skin	endothelial_marker	0.4410631314670048	1.1435684636174275e-146	3077
+Skin	pericyte_smc_marker	0.50160836601306	8.474445310994605e-196	3077
+Skin	ecm_remodeling_marker	0.6200745671191299	0.0	3077
+Wound1	fibroblast_stromal_marker	0.5022316587195851	0.0	6515
+Wound1	endothelial_marker	0.4358640498392968	2.3779324130052904e-300	6515
+Wound1	pericyte_smc_marker	0.518902189812665	0.0	6515
+Wound1	ecm_remodeling_marker	0.7856693956742454	0.0	6515
+Wound30	fibroblast_stromal_marker	0.42509843177393797	0.0	7279
+Wound30	endothelial_marker	0.4571143274811261	0.0	7279
+Wound30	pericyte_smc_marker	0.5069783143813019	0.0	7279
+Wound30	ecm_remodeling_marker	0.7678286614211752	0.0	7279
+Wound7	fibroblast_stromal_marker	0.4762439096328756	0.0	6044
+Wound7	endothelial_marker	0.32802865372545864	1.3525351336872455e-151	6044
+Wound7	pericyte_smc_marker	0.4505080907914666	5.405444392902762e-300	6044
+Wound7	ecm_remodeling_marker	0.7796850552850006	0.0	6044

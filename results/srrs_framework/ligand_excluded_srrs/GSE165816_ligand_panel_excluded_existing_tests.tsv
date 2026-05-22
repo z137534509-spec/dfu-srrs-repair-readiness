@@ -1,0 +1,2 @@
+feature	healer_n	nonhealer_n	healer_mean	nonhealer_mean	delta_healer_minus_nonhealer	p_mannwhitney	exact_permutation_p	bootstrap_ci_low	bootstrap_ci_high	lodo_min_delta	lodo_max_delta	lodo_same_direction
+SRRS_no_ligand_panel_existing	9	5	0.4240259443123812	-0.7632466997622865	1.1872726440746677	0.003996003996003996	0.0024962556165751375	0.6735005143894556	1.6212108729896313	1.0888368839019043	1.3892909781377114	14/14
